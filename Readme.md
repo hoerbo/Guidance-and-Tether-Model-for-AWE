@@ -11,7 +11,7 @@ Master Thesis Project in Aerospace Engineering.
 [![Demo Ground-Generation System](https://s4.gifyu.com/images/GG_320.gif)](https://youtu.be/OWJ5FSvkmaQ)
 * **Onboard-Generation System**: flight on constant orbit, tether force set point tracking (1 kN)
 * **Ground-Generation System**: flight on increasing orbit (tether reeling out), tether force set point tracking (1 kN) 
-* Tether States: epsilon=tether strain, F=tether force#
+* Tether States: epsilon=tether strain, F=tether force
 * clickable external links (youtube)
 
 ## Demo of Operation in SiL-Simulator
