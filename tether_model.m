@@ -9,7 +9,7 @@ dt = 1e-3; %m
 rho_dyn = 970; %kg/m^3
 A = pi*dt^2/4; %m^2
 k = E*A/L0; %N/m (local spring force)
-c = 60 / L0; %ESA 0.3*200m
+c = 60 / L0; %Nm/s: (Linskens et al.: Tether Dynamics Analysis...: 0.3*200m)
 mass = rho_dyn * A * L0 * pm / (pm-1); %kg
 cd = 0.958; 
 
