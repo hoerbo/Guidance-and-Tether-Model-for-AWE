@@ -28,8 +28,8 @@ Master Thesis Project in Aerospace Engineering.
 #### Guidance
 * general-purpose Guidance Model for flexible (kites) and rigid aircraft 
 * suitable for onboard-generation and ground-generation systems
-* target track input: lemniscate of bernoulli
-* outputs: course angle/course rate and path angle/path rate in earth-fixed system
+* input: lemniscate of bernoulli (target track)
+* output: course angle/course rate and path angle/path rate in earth-fixed system
 
 #### Tether Model
 * formulated as system of implicit differential equations
