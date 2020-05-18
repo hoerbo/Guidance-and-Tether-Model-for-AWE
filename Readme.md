@@ -17,7 +17,7 @@ Master Thesis Project in Aerospace Engineering.
 ## Demo of Operation in SiL-Simulator
 [![Demo Ground-Generation System](https://s6.gifyu.com/images/Maja_320.gif)](https://youtu.be/o2d76z69M18)
 * **Untethered Flight on Constant Orbit**
-* fully-fledged SiL-Simulator maintained by Institute of Flight Mechanics and Controls, University of Stuttgart
+* fully-fledged SiL-Simulator maintained by Institute of Flight Mechanics and Control, University of Stuttgart
 * model: Bormatec Maja UAV Drone (wingspan: 2.2 m, mass ~4 kg)
 * linear MIMO Low-Level Flight Control System
 * video playback speed is doubled
@@ -51,7 +51,7 @@ Master Thesis Project in Aerospace Engineering.
 * Jehle et al.: https://doi.org/10.2514/1.62380
 * Rapp et al.: https://doi.org/10.2514/1.G004246
 * Fechner et al.: https://doi.org/10.1016/j.renene.2015.04.028
-* Rafael Wiedenroth, Master Thesis, Institute of Flight Mechanics and Controls (iFR), University of Stuttgart (work in progress)
+* Rafael Wiedenroth, Master Thesis, Institute of Flight Mechanics and Control (iFR), University of Stuttgart (work in progress)
 
 ## License
 
