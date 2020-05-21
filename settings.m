@@ -26,19 +26,13 @@ tethermodel.timestep = 0.01;
 tethermodel.kp = 0.7; %winch controller p-gain
 tethermodel.rw = 0.1; %winch diameter
 
-%Calculate initial conditions for simulation time = 0
-g = [0;0;9.81];
+%Calculate (bad) initial conditions for simulation time = 0
+%Tether is not in equilibrium (induces oscillations)
 Y0hat = zeros(3,2*tethermodel.pm);
-Yp0hat = zeros(3,tethermodel.pm);
 for i=1:tethermodel.pm
     Y0hat(:,i) = [0;0;-tethermodel.L0*(i-1)];
-    Y0hat(:,i+tethermodel.pm) = -guidance.vk'*(norm(Y0hat(:,i))/tethermodel.L_0tot);
-    Yp0hat(:,i) = g;
-    
+    Y0hat(:,i+tethermodel.pm) = -guidance.vk'*(norm(Y0hat(:,i))/tethermodel.L_0tot);   
 end
 Y0hat = reshape(Y0hat,[6*tethermodel.pm,1]);
-Yp0hat = reshape(Yp0hat,[3*tethermodel.pm,1]);
-
 tethermodel.Y0 = Y0hat;
-tethermodel.Yp0 = [zeros(tethermodel.pm*3,1);Yp0hat];
 end
