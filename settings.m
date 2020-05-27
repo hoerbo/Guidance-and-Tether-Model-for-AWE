@@ -10,8 +10,8 @@ guidance.ap = single(120); %half (flown) lemniscate width in m
 guidance.windangle = single(0); %constant wind from north
 guidance.vkr_norm = single(8); %reel-out speed in m/s
 guidance.ak_r = single(0); %reel-out acceleration in m/s^2
-guidance.delta0 = single(0.1); %turning point distance (gain in empirical law)
-guidance.kdelta = single(9); %gain for NDI
+guidance.delta0 = single(0.165); %turning point distance (gain in empirical law)
+guidance.kdelta = single(6.5); %gain for NDI
 guidance.heightcmd = single(350); %target height (starting orbit for vkr_norm =! 0)
 
 %Choose between Control Law based on NDI or an Empirical Law for the FB
