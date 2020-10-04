@@ -4,7 +4,7 @@ This repository contains a MATLAB/Simulink Guidance Model for autonomous flight 
 In addition, a Tether Model based on Kelvin-Voigt material is provided.
 The functionality is demonstrated in a basic kinematic framework.
 Further testing in a SiL Simulator (results shown below, but code not provided here) proofs robustness of the approach.
-Master Thesis Project in Aerospace Engineering.
+Master Thesis in Aerospace Engineering. Written copy attached to this repository (in German). 
 
 ## Demos of Operation in Kinematic Framework
 [![Demo Onboard-Generation System](https://s4.gifyu.com/images/OG_320b1d3aa0076cdb89a.gif)](https://youtu.be/XXs6cW-sE3Y)
