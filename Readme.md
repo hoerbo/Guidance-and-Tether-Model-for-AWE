@@ -15,7 +15,7 @@ Master Thesis in Aerospace Engineering. Written copy attached to this repository
 * clickable external links (youtube)
 
 ## Demo of Operation in SiL-Simulator
-[![Demo Ground-Generation System](https://s6.gifyu.com/images/Maja_320.gif)](https://youtu.be/o2d76z69M18)
+[![Demo Ground-Generation System](https://s8.gifyu.com/images/Majaec2d2b3943dcd9cf.gif)](https://youtu.be/o2d76z69M18)
 * **Untethered Flight on Constant Orbit**
 * fully-fledged SiL-Simulator maintained by Institute of Flight Mechanics and Control, University of Stuttgart
 * model: Bormatec Maja UAV Drone (wingspan: 2.2 m, mass ~4 kg)
