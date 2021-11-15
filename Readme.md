@@ -21,7 +21,7 @@ Master Thesis in Aerospace Engineering. Written copy attached to this repository
 * model: Bormatec Maja UAV Drone (wingspan: 2.2 m, mass ~4 kg)
 * linear MIMO Low-Level Flight Control System
 * video playback speed is doubled
-* clickable external links (youtube)
+* clickable external link (youtube)
 
 ## Features
 
