@@ -7,8 +7,8 @@ Further testing in a SiL Simulator (results shown below, but code not provided h
 Master Thesis in Aerospace Engineering. Written copy attached to this repository (in German). 
 
 ## Demos of Operation in Kinematic Framework
-[![Demo Onboard-Generation System](https://s4.gifyu.com/images/OG_320b1d3aa0076cdb89a.gif)](https://youtu.be/XXs6cW-sE3Y)
-[![Demo Ground-Generation System](https://s4.gifyu.com/images/GG_320.gif)](https://youtu.be/OWJ5FSvkmaQ)
+[![Demo Onboard-Generation System](https://s10.gifyu.com/images/OG.gif)](https://youtu.be/XXs6cW-sE3Y)
+[![Demo Ground-Generation System](https://s10.gifyu.com/images/GG.gif)](https://youtu.be/OWJ5FSvkmaQ)
 * **Onboard-Generation System**: flight on constant orbit, tether force set point tracking (1 kN)
 * **Ground-Generation System**: flight on increasing orbit (tether reeling out), tether force set point tracking (1 kN) 
 * Tether States: epsilon=tether strain, F=tether force
