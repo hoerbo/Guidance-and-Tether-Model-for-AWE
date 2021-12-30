@@ -4,7 +4,8 @@ This repository contains a MATLAB/Simulink Guidance Model for autonomous flight 
 In addition, a Tether Model based on Kelvin-Voigt material is provided.
 The functionality is demonstrated in a basic kinematic framework.
 Further testing in a SiL Simulator (results shown below, but code not provided here) proofs robustness of the approach.
-Master Thesis in Aerospace Engineering. Written copy attached to this repository (in German). 
+Master Thesis in Aerospace Engineering. Written copy attached to this repository (in German).
+Recently published as AIAA Conference Paper: https://doi.org/10.2514/6.2022-1229.
 
 ## Demos of Operation in Kinematic Framework
 [![Demo Onboard-Generation System](https://s10.gifyu.com/images/OG.gif)](https://youtu.be/XXs6cW-sE3Y)
@@ -51,7 +52,6 @@ Master Thesis in Aerospace Engineering. Written copy attached to this repository
 * Jehle et al.: https://doi.org/10.2514/1.62380
 * Rapp et al.: https://doi.org/10.2514/1.G004246
 * Fechner et al.: https://doi.org/10.1016/j.renene.2015.04.028
-* Rafael Wiedenroth: Guidance Approach and Tether Model for an Airborne Wind Energy System, Master Thesis, Institute of Flight Mechanics and Control (iFR), University of Stuttgart
 
 ## License
 
