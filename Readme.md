@@ -5,7 +5,7 @@ In addition, a Tether Model based on Kelvin-Voigt material is provided.
 The functionality is demonstrated in a basic kinematic framework.
 Further testing in a SiL Simulator (results shown below, but code not provided here) proofs robustness of the approach.
 Master Thesis in Aerospace Engineering. Written copy attached to this repository (in German).
-Recently published as AIAA Conference Paper: https://doi.org/10.2514/6.2022-1229.
+Subsequently published as AIAA Conference Paper: https://doi.org/10.2514/6.2022-1229.
 
 ## Demos of Operation in Kinematic Framework
 [![Demo Onboard-Generation System](https://s10.gifyu.com/images/OG.gif)](https://youtu.be/XXs6cW-sE3Y)
