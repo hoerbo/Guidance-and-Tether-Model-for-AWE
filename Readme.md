@@ -52,7 +52,7 @@ Subsequently published as AIAA Conference Paper: https://doi.org/10.2514/6.2022-
 * Jehle et al.: https://doi.org/10.2514/1.62380
 * Rapp et al.: https://doi.org/10.2514/1.G004246
 * Fechner et al.: https://doi.org/10.1016/j.renene.2015.04.028
-* Hein et al.: 1https://doi.org/10.2514/6.2022-1229
+* Hein et al.: https://doi.org/10.2514/6.2022-1229
 
 ## License
 
