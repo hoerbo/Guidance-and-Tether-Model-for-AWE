@@ -8,15 +8,15 @@ Master Thesis in Aerospace Engineering. Written copy attached to this repository
 Subsequently published as AIAA Conference Paper: https://doi.org/10.2514/6.2022-1229.
 
 ## Demos of Operation in Kinematic Framework
-[![Demo Onboard-Generation System](https://s10.gifyu.com/images/OG.gif)](https://youtu.be/XXs6cW-sE3Y)
-[![Demo Ground-Generation System](https://s10.gifyu.com/images/GG.gif)](https://youtu.be/OWJ5FSvkmaQ)
+[![Demo Onboard-Generation System](https://s11.gifyu.com/images/OG.gif)](https://youtu.be/XXs6cW-sE3Y)
+[![Demo Ground-Generation System](https://s12.gifyu.com/images/GG.gif)](https://youtu.be/OWJ5FSvkmaQ)
 * **Onboard-Generation System**: flight on constant orbit, tether force set point tracking (1 kN)
 * **Ground-Generation System**: flight on increasing orbit (tether reeling out), tether force set point tracking (1 kN) 
 * Tether States: epsilon=tether strain, F=tether force
 * clickable external links (youtube)
 
 ## Demo of Operation in SiL-Simulator
-[![Demo Ground-Generation System](https://s8.gifyu.com/images/Majaec2d2b3943dcd9cf.gif)](https://youtu.be/o2d76z69M18)
+[![Demo Ground-Generation System](https://s12.gifyu.com/images/Maja.gif)](https://youtu.be/o2d76z69M18)
 * **Untethered Flight on Constant Orbit**
 * fully-fledged SiL-Simulator maintained by Institute of Flight Mechanics and Control, University of Stuttgart
 * model: Bormatec Maja UAV Drone (wingspan: 2.2 m, mass ~4 kg)
